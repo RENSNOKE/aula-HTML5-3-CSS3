@@ -1,0 +1,16 @@
+body {
+    background: purple;
+    margin: 100px 100px 100px 100px;
+}
+
+h1 {
+    background: #00ffff;
+    color: #444444; 
+    font-family:'Metal Mania', cursive;
+}
+p {
+    font-size:30px;
+}
+.img_padrao {
+    width:600px;
+}
